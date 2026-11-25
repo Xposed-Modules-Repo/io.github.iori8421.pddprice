@@ -30,3 +30,8 @@
 - 版本：v1.11.1（versionCode 19）
 - 作者：iori8421
 - 制作日期：2026-11-25
+
+
+<img width="1080" height="2339" alt="707246_c0befdd9_0931_508_359@1280x2772 jpg m" src="https://github.com/user-attachments/assets/10518cc5-5616-42b9-bcfd-2aca87f31fcc" />
+<img width="1080" height="2339" alt="707246_668cb6df_0931_5093_891@1280x2772 jpg m" src="https://github.com/user-attachments/assets/b4c78c11-4365-4bb0-8f20-a441c2adddb0" />
+<img width="1080" height="2339" alt="707246_3faf3334_0931_5087_907@1280x2772 jpg m" src="https://github.com/user-attachments/assets/fba180f4-f28d-4a2a-a750-5b97bf512d71" />
